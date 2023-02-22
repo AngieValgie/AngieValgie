@@ -1,4 +1,6 @@
-### Hi there 👋
+### ✨🌸 Bienvenide a mi readme personal 🌸✨
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngieValgie)](https://github.com/AngieValgie/github-readme-stats)
 
 <!--
 **AngieValgie/AngieValgie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
